@@ -1,0 +1,54 @@
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+
+.viagem_mainDiv
+{
+    border: 10px solid rgb(118, 151, 0);
+}
+
+.viagem_mainDiv img
+{
+  width: 100%;
+}
+
+.viagem_mainDiv h5 , .travel_mainDiv p
+{
+margin: 22px;
+}
+
+
+
+.filme_head
+{
+    font-size: 20px;
+    padding: 5px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.filme_head i
+{
+float: right;
+}
+
+.conquistas_text span
+{
+color: rgb(110, 233, 94);
+}
+
+
+.novidade
+{
+    margin-bottom: 20px;
+}
+
+#contato iframe
+{
+    width: 100%;
+}
+
+
+
